@@ -1,0 +1,4 @@
+#Wed Oct 30 11:19:33 PDT 2019
+base.0=D\:\\Projects\\react-native\\ReactNativeSeedKitten\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
